@@ -1,0 +1,27 @@
+name: タスク
+about: 開発タスクや作業項目を作成する
+title: "タスク"
+labels: 'task'
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## タスクの概要
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 目的
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 実施内容
+
+  - type: input
+    attributes:
+      label: "⏱️ 想定期間"
+      value: ""
+    validations:
+      required: false
