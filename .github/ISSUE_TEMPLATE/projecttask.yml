@@ -1,5 +1,5 @@
 name: タスク
-about: 開発タスクや作業項目を作成する
+description: 開発タスクや作業項目を作成する
 title: "タスク"
 labels: 'task'
 assignees: ''
